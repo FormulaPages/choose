@@ -1,0 +1,23 @@
+{
+  "name": "formula-choose",
+  "version": "1.0.0",
+  "description": "Spreadsheet compatible CHOOSE function as JavaScript UMD Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/choose.git"
+  },
+  "keywords": [
+    "spreadsheet",
+    "formula"
+  ],
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/choose/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/choose#readme"
+}
